@@ -1,6 +1,7 @@
 <div align='center'>
 
-<p>This is about a platform "DDREAM FORGE" which stands to solve the problem of many college students like us to make our project and creativity grow and don't get limited due to some small issues. </p>
+<h1>Dream Forge</h1>
+<p>This is about a platform which stands to solve the problem of many college students like us to make our project and creativity grow and don't get limited due to some small issues. </p>
 
 <h4> <span> · </span> <a href="https://github.com/Tashviaggarwal/Dream_forge/blob/master/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/Tashviaggarwal/Dream_forge/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/Tashviaggarwal/Dream_forge/issues"> Request Feature </a> </h4>
 
