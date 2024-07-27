@@ -51,6 +51,6 @@ Please read the [Code of Conduct](https://github.com/Tashviaggarwal/Dream_forge.
 
 ## :handshake: Contact
 
-Tashvi Aggarwal - - aggarwaltashvi05@gmail.com
+Ansh Gupta
 
-Project Link: [https://github.com/Tashviaggarwal/Dream_forge.git](https://github.com/Tashviaggarwal/Dream_forge.git)
+
